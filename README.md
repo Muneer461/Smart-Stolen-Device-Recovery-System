@@ -1,5 +1,5 @@
-# phonetheif-project
-The "Phone Thief Recovery System—IMEI Verification" project is designed to combat the rising issue of smartphone theft by harnessing the power of IMEI numbers and a centralized database accessible through a website. In an era where smartphones hold a wealth of personal information and data, theft not only results in financial losses but also compromises privacy and security.
+# Smart Stolen Device Recovery System
+The "Smart Stolen Device  Recovery System—IMEI Verification" project is designed to combat the rising issue of smartphone theft by harnessing the power of IMEI numbers and a centralized database accessible through a website. In an era where smartphones hold a wealth of personal information and data, theft not only results in financial losses but also compromises privacy and security.
 Our project seeks to provide an effective and user-friendly solution for victims of phone theft and law enforcement agencies alike. By enabling individuals to verify the status of a phone using its IMEI number through a dedicated website, we aim to create a powerful tool for identifying stolen devices and initiating recovery efforts.
 Key Project Objectives:
 
